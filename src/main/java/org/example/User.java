@@ -3,7 +3,7 @@ package org.example;
 public class User {
     private final String username;
     private final String password;
-    private final String email;
+    private final String email; 
 
     public User(String username, String password, String email) {
         this.username = username;

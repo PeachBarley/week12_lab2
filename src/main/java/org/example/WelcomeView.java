@@ -20,7 +20,7 @@ public class WelcomeView {
         Label applicationLabel = new Label("My Application");
         applicationLabel.setStyle(""" 
                 -fx-font-size: 18px;
-                -fx-text-fill: #5c6f8a; 
+                -fx-text-fill: #5c6f8a;  
                 """);
 
         StackPane stackPane = new StackPane(applicationLabel);
